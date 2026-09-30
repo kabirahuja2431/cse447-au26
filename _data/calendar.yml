@@ -14,8 +14,6 @@
       readings:
         - title: J&M, Chapter 1
           link: https://web.stanford.edu/~jurafsky/slp3/1.pdf
-        - title: New York Times interview with Yejin Choi
-          link: https://www.nytimes.com/interactive/2022/12/26/magazine/yejin-choi-interview.html
       homework: HW0 out
 - week: 2
   days:
