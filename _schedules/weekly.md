@@ -22,21 +22,21 @@ schedule:
   - name: Monday
     events:
       - name: Lecture
-        start: 1:30 PM
-        end: 2:20 PM
-        location: KNE 110
+        start: 3:30 PM
+        end: 4:20 PM
+        location: MGH 389
   - name: Tuesday
   - name: Wednesday
     events:
       - name: Lecture
-        start: 1:30 PM
-        end: 2:20 PM
-        location: KNE 110
+        start: 3:30 PM
+        end: 4:20 PM
+        location: MGH 389
   - name: Thursday
   - name: Friday
     events:
       - name: Lecture
-        start: 1:30 PM
-        end: 2:20 PM
-        location: KNE 110
+        start: 3:30 PM
+        end: 4:20 PM
+        location: MGH 389
 ---

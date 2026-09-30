@@ -14,12 +14,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Natural Language Processing
-tagline: CSE 447&#58; Natural Language Processing, Fall 2025
-description: 
+tagline: CSE 447&#58; Natural Language Processing, Autumn 2026
+description: Natural Language Processing — CSE 447 at the University of Washington, Autumn 2026
 author: Ivy Guo
-baseurl: '/cse447-au25' # the subpath of your site, e.g. /blog
-url: 'https://msclar.github.io' # the base hostname & protocol for your site, e.g. http://example.com
-exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor"]
+baseurl: '/courses/cse447/26au' # the subpath of your site, e.g. /blog
+url: 'https://courses.cs.washington.edu' # the base hostname & protocol for your site, e.g. http://example.com
+exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md", "deploy.sh", "vendor"]
 
 # Theme settings
 remote_theme: pmarsceill/just-the-docs@v0.3.3
@@ -32,16 +32,8 @@ aux_links:
 footer_content:
 
 quick_links:
-  - name: Eis
-    url: "https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf"
   - name: J&M III
-    url: "https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf"
-  - name: Discussion Board (Ed)
-    url: "https://edstem.org/us/courses/86021/discussion"
-  - name: Canvas
-    url: "https://canvas.uw.edu/courses/1828090"
-  - name: Gradescope
-    url: https://www.gradescope.com/courses/1116577
+    url: "https://web.stanford.edu/~jurafsky/slp3/"
 
 #assignments:
 #  - name: a1

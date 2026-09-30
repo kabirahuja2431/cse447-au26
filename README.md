@@ -37,6 +37,22 @@ Just the Class is built for [Jekyll](https://jekyllrb.com), a static site genera
 
 1. Follow the GitHub documentation for [Setting up your GitHub Pages site locally with Jekyll](https://help.github.com/en/articles/setting-up-your-github-pages-site-locally-with-jekyll).
 1. Start your local Jekyll server.
+
+## Publishing the Autumn 2026 site
+
+Connect to the UW network or Husky OnNet VPN, then run:
+
+```sh
+bash deploy.sh
+```
+
+The script builds the site and uploads the generated `_site` contents to
+`/cse/web/courses/cse447/26au/` on `attu.cs.washington.edu`. It does not delete
+files already present on the server.
+
+Pushes to the GitHub `main` branch are built and published automatically by
+the `build_and_deploy.yml` GitHub Actions workflow. The workflow deploys through
+`recycle.cs.washington.edu` using the repository's scoped deployment secrets.
 ```bash
 $ bundle exec jekyll serve
 ```
