@@ -47,15 +47,19 @@ CSE 312 and CSE 332; recommended: MATH 208. CSE 446 is recommended before or con
 
 ## Calendar
 
-Only the first week is shown for now. Later weeks will be added as the quarter continues.
+Only the first two weeks are shown for now. Later weeks will be added as the quarter continues.
 
 <table>
   <thead>
   <tr>
     <th>Week</th>
+    <th>Lecture</th>
     <th>Date</th>
-    <th width="40%">Topic</th>
-    <th width="40%">Readings</th>
+    <th>Topic</th>
+    <th>Summary</th>
+    <th>Readings</th>
+    <th>Homework</th>
+    <th>Notes</th>
   </tr>
   </thead>
   <tbody>
@@ -65,6 +69,7 @@ Only the first week is shown for now. Later weeks will be added as the quarter c
         {% if forloop.index == 1 %}
         <td rowspan="{{ week.days | size }}">{{ week.week }}</td>
         {% endif %}
+        <td>{{ day.lecture }}</td>
         <td>{{ day.date }}</td>
         <td class="cal-content">
           {{ day.topics }}
@@ -72,6 +77,7 @@ Only the first week is shown for now. Later weeks will be added as the quarter c
             <br><a href="{{ day.slides }}" class="cal-content-link">[slides]</a>
           {% endif %}
         </td>
+        <td class="cal-content">{{ day.summary }}</td>
         <td class="cal-content">
           {% for reading in day.readings %}
             {% if reading.link %}<a href="{{ reading.link }}" class="cal-content-link">{% endif %}
@@ -79,6 +85,8 @@ Only the first week is shown for now. Later weeks will be added as the quarter c
             {% if reading.link %}</a>{% endif %}
           {% endfor %}
         </td>
+        <td class="cal-content">{{ day.homework }}</td>
+        <td class="cal-content">{{ day.notes }}</td>
       </tr>
     {% endfor %}
   {% endfor %}
