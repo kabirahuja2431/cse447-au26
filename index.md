@@ -13,6 +13,17 @@ seo:
 MWF 3:30–4:20 PM, MGH 389
 {: .fs-6 .fw-300 }
 
+## Announcements
+
+<div class="announcement" markdown="1">
+### Oct 1: Homework 0 (optional) is out
+
+Homework 0 is now available. This assignment is optional.
+
+- [Handout](https://drive.google.com/file/d/1dU9ItfACZJHsg9SV4EikS_RPni29_VrJ/view?usp=sharing)
+- [Notebook](https://drive.google.com/file/d/1dU9ItfACZJHsg9SV4EikS_RPni29_VrJ/view?usp=sharing)
+</div>
+
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
 {% for staffer in instructors %}
 {{ staffer }}
