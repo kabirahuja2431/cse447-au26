@@ -21,7 +21,7 @@ MWF 3:30–4:20 PM, MGH 389
 This is an optional homework and is mainly there for you to revise Python fundamentals and get a basic introduction to PyTorch. There is an extra credit of 2% of the final grade upon the successful completion of this project.
 
 - [Handout](https://drive.google.com/file/d/1dU9ItfACZJHsg9SV4EikS_RPni29_VrJ/view?usp=sharing)
-- [Notebook](https://drive.google.com/file/d/1dU9ItfACZJHsg9SV4EikS_RPni29_VrJ/view?usp=sharing)
+- [Notebook](https://drive.google.com/file/d/1z8hLpGDF8bib-eqKBWSsAub83J0t1FO5/view?usp=sharing)
 </div>
 
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
