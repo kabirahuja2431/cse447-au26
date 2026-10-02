@@ -3,14 +3,12 @@
     - date: 9/30
       lecture: 1
       topics: Logistics
-      summary: Class logistics; outline of the course; an overview of homework assignments
       slides: https://drive.google.com/file/d/1BTVCgP-HnUtxYJPkgHB6yZ12PJorEHa4/view?usp=sharing
       readings:
         - title: Course website and syllabus
     - date: 10/2
       lecture: 2
       topics: Introduction
-      summary: Overview of NLP as a field
       readings:
         - title: J&M, Chapter 1
           link: https://web.stanford.edu/~jurafsky/slp3/1.pdf
@@ -20,4 +18,187 @@
     - date: 10/5
       lecture: 3
       topics: Linguistics background
-      summary: Levels of linguistic structure
+      readings:
+        - title: J&M, Chapter 2
+          link: https://web.stanford.edu/~jurafsky/slp3/2.pdf
+    - date: 10/7
+      lecture: 4
+      topics: HW1 overview, Quiz overview
+      homework: HW1 out & HW1 overview
+    - date: 10/9
+      lecture: 5
+      topics: Linguistics background
+      readings:
+        - title: J&M, Chapter 2
+          link: https://web.stanford.edu/~jurafsky/slp3/2.pdf
+- week: 3
+  days:
+    - date: 10/12
+      lecture: 6
+      topics: Text classification
+      readings:
+        - title: J&M, Chapter 4
+          link: https://web.stanford.edu/~jurafsky/slp3/4.pdf
+      quiz: In-class quiz 1
+    - date: 10/14
+      lecture: 7
+      topics: Text classification
+      readings:
+        - title: Pang et al. (2002); Ng & Jordan (2001)
+    - date: 10/16
+      lecture: 8
+      topics: Text classification
+- week: 4
+  days:
+    - date: 10/19
+      lecture: 9
+      topics: Text classification
+      readings:
+        - title: J&M, Chapter 4
+          link: https://web.stanford.edu/~jurafsky/slp3/4.pdf
+      quiz: In-class quiz 2
+    - date: 10/21
+      lecture: 10
+      topics: Text classification
+      readings:
+        - title: J&M, Chapter 4
+          link: https://web.stanford.edu/~jurafsky/slp3/4.pdf
+    - date: 10/23
+      lecture: 11
+      topics: Text classification
+      readings:
+        - title: J&M, Chapter 4
+          link: https://web.stanford.edu/~jurafsky/slp3/4.pdf
+- week: 5
+  days:
+    - date: 10/26
+      lecture: 12
+      topics: Language modeling
+      readings:
+        - title: J&M, Chapter 3
+          link: https://web.stanford.edu/~jurafsky/slp3/3.pdf
+      quiz: In-class quiz 3
+    - date: 10/28
+      lecture: 13
+      topics: Language modeling
+      readings:
+        - title: J&M, Chapter 3
+          link: https://web.stanford.edu/~jurafsky/slp3/3.pdf
+    - date: 10/30
+      lecture: 14
+      topics: Language modeling
+      readings:
+        - title: J&M, Chapter 3
+          link: https://web.stanford.edu/~jurafsky/slp3/3.pdf
+      homework: HW1 due
+- week: 6
+  days:
+    - date: 11/2
+      lecture: 15
+      topics: Lexical semantics
+      readings:
+        - title: J&M, Chapter 5
+          link: https://web.stanford.edu/~jurafsky/slp3/5.pdf
+      quiz: In-class quiz 3
+      homework: HW2 out
+    - date: 11/4
+      lecture: 16
+      topics: Distributional semantics
+      readings:
+        - title: J&M, Chapter 5
+          link: https://web.stanford.edu/~jurafsky/slp3/5.pdf
+    - date: 11/6
+      lecture: 17
+      topics: Distributional semantics
+      readings:
+        - title: J&M, Chapter 5
+          link: https://web.stanford.edu/~jurafsky/slp3/5.pdf
+- week: 7
+  days:
+    - date: 11/9
+      lecture: 18
+      topics: Neural networks
+      readings:
+        - title: J&M, Chapter 6
+          link: https://web.stanford.edu/~jurafsky/slp3/6.pdf
+        - title: Optional — J&M, Chapter 14
+          link: https://web.stanford.edu/~jurafsky/slp3/14.pdf
+      quiz: In-class quiz 4
+    - date: 11/11
+      lecture: 19
+      topics: "Neural networks: Transformers"
+      readings:
+        - title: J&M, Chapter 7
+          link: https://web.stanford.edu/~jurafsky/slp3/7.pdf
+    - date: 11/13
+      lecture: 20
+      topics: LLMs — Pretraining and in-context learning
+      readings:
+        - title: J&M, Chapter 7
+          link: https://web.stanford.edu/~jurafsky/slp3/7.pdf
+- week: 8
+  days:
+    - date: 11/16
+      lecture: 21
+      topics: LLMs — Finetuning
+      readings:
+        - title: J&M, Chapter 8
+          link: https://web.stanford.edu/~jurafsky/slp3/8.pdf
+      quiz: In-class quiz 5
+    - date: 11/18
+      lecture: 22
+      topics: LLMs — Decoding, beam search, and sampling
+      readings:
+        - title: J&M, Chapter 7
+          link: https://web.stanford.edu/~jurafsky/slp3/7.pdf
+    - date: 11/20
+      lecture: 23
+      topics: LLMs — Prompting and chain-of-thought
+      readings:
+        - title: The Prompt Report
+          link: https://arxiv.org/abs/2406.06608
+        - title: arXiv:2402.13116
+          link: https://arxiv.org/pdf/2402.13116
+        - title: arXiv:2305.16635
+          link: https://arxiv.org/abs/2305.16635
+      homework: HW2 due
+- week: 9
+  days:
+    - date: 11/23
+      lecture: 24
+      topics: LLMs — Post-training and alignment
+      readings:
+        - title: J&M, Chapter 8
+          link: https://web.stanford.edu/~jurafsky/slp3/8.pdf
+      quiz: In-class quiz 6
+      homework: HW3 out
+    - date: 11/25
+      lecture: 25
+      topics: AI agents
+    - date: 11/27
+      topics: Thanksgiving — no class
+- week: 10
+  days:
+    - date: 11/30
+      lecture: 26
+      topics: "NLP in industry: Recommender systems and online training"
+    - date: 12/2
+      lecture: 27
+      topics: LLM safety
+      readings:
+        - title: Risks of LLMs, SafetyPrompts, and The Art of Saying No
+          link: https://arxiv.org/pdf/2112.04359
+    - date: 12/4
+      lecture: 28
+      topics: Conclusion
+      quiz: In-class quiz 7
+- week: 11
+  days:
+    - date: 12/7
+      topics: Cancelled
+      quiz: "."
+    - date: 12/9
+      topics: Cancelled
+      homework: HW3 due
+    - date: 12/11
+      topics: Cancelled

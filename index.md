@@ -47,7 +47,7 @@ CSE 312 and CSE 332; recommended: MATH 208. CSE 446 is recommended before or con
 
 ## Calendar
 
-The schedule through October 5 is shown for now. Later classes will be added as the quarter continues.
+The schedule is subject to change.
 
 <table>
   <thead>
@@ -56,10 +56,9 @@ The schedule through October 5 is shown for now. Later classes will be added as 
     <th>Lecture</th>
     <th>Date</th>
     <th>Topic</th>
-    <th>Summary</th>
     <th>Readings</th>
+    <th>Quiz</th>
     <th>Homework</th>
-    <th>Notes</th>
   </tr>
   </thead>
   <tbody>
@@ -77,7 +76,6 @@ The schedule through October 5 is shown for now. Later classes will be added as 
             <br><a href="{{ day.slides }}" class="cal-content-link">[slides]</a>
           {% endif %}
         </td>
-        <td class="cal-content">{{ day.summary }}</td>
         <td class="cal-content">
           {% for reading in day.readings %}
             {% if reading.link %}<a href="{{ reading.link }}" class="cal-content-link">{% endif %}
@@ -85,8 +83,8 @@ The schedule through October 5 is shown for now. Later classes will be added as 
             {% if reading.link %}</a>{% endif %}
           {% endfor %}
         </td>
+        <td class="cal-content">{{ day.quiz }}</td>
         <td class="cal-content">{{ day.homework }}</td>
-        <td class="cal-content">{{ day.notes }}</td>
       </tr>
     {% endfor %}
   {% endfor %}
