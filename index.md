@@ -16,6 +16,18 @@ MWF 3:30–4:20 PM, MGH 389
 ## Announcements
 
 <div class="announcement" markdown="1">
+### Oct 7: Homework 1 is out
+{: #homework-1 }
+
+Homework 1 (Project 1) is due **October 30 at 11:59 p.m. Pacific Time**. Submit your notebooks and writeup through Gradescope as described in the handout.
+
+- [Part 1a notebook](https://drive.google.com/file/d/1vMnf434SNrSoZ_Z5xWPju2QKfZgXrnxu/view?usp=sharing)
+- [Part 1b notebook](https://drive.google.com/file/d/1A2O_WMnkhTEIJORfdT0lYMdSQ80uOWyS/view?usp=sharing)
+- [Writeup PDF](https://drive.google.com/file/d/1MewqyQjcScemhM-xOcBR4BavKIvQJH76/view?usp=sharing)
+- [Writeup source (TeX)](https://drive.google.com/file/d/1TzdYg9nDplvzZZ-TgXP7f3YGFmb5Jj33/view?usp=sharing)
+</div>
+
+<div class="announcement" markdown="1">
 ### Oct 1: Homework 0 (optional) is out
 
 This is an optional homework and is mainly there for you to revise Python fundamentals and get a basic introduction to PyTorch. There is an extra credit of 2% of the final grade upon the successful completion of this project.
