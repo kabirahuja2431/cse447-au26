@@ -40,6 +40,7 @@
     - date: 10/12
       lecture: 6
       topics: Text classification
+      slides: https://drive.google.com/file/d/1Vhc_h4hSWhF_XnsMINepbbk8PrZHeomr/view?usp=sharing
       readings:
         - title: J&M, Chapter 4
           link: https://web.stanford.edu/~jurafsky/slp3/4.pdf
@@ -47,11 +48,13 @@
     - date: 10/14
       lecture: 7
       topics: Text classification
+      slides: https://drive.google.com/file/d/1-gCbsO8ibr4r2PnJVw_2CT3M2BwrUgu9/view?usp=sharing
       readings:
         - title: Pang et al. (2002); Ng & Jordan (2001)
     - date: 10/16
       lecture: 8
       topics: Text classification
+      slides: https://drive.google.com/file/d/11WKujTTm_ofpFCqioX_RwJ7RwRnAR3Rl/view?usp=sharing
 - week: 4
   days:
     - date: 10/19
