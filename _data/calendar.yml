@@ -106,7 +106,7 @@
       readings:
         - title: J&M, Chapter 5
           link: https://web.stanford.edu/~jurafsky/slp3/5.pdf
-      quiz: In-class quiz 3
+      quiz: In-class quiz 4
       homework: HW2 out
     - date: 11/4
       lecture: 16
@@ -130,7 +130,7 @@
           link: https://web.stanford.edu/~jurafsky/slp3/6.pdf
         - title: Optional — J&M, Chapter 14
           link: https://web.stanford.edu/~jurafsky/slp3/14.pdf
-      quiz: In-class quiz 4
+      quiz: In-class quiz 5
     - date: 11/11
       lecture: 19
       topics: "Neural networks: Transformers"
@@ -151,7 +151,7 @@
       readings:
         - title: J&M, Chapter 8
           link: https://web.stanford.edu/~jurafsky/slp3/8.pdf
-      quiz: In-class quiz 5
+      quiz: In-class quiz 6
     - date: 11/18
       lecture: 22
       topics: LLMs — Decoding, beam search, and sampling
@@ -177,7 +177,7 @@
       readings:
         - title: J&M, Chapter 8
           link: https://web.stanford.edu/~jurafsky/slp3/8.pdf
-      quiz: In-class quiz 6
+      quiz: In-class quiz 7
       homework: HW3 out
     - date: 11/25
       lecture: 25
@@ -198,7 +198,7 @@
     - date: 12/4
       lecture: 28
       topics: Conclusion
-      quiz: In-class quiz 7
+      quiz: In-class quiz 8
 - week: 11
   days:
     - date: 12/7
