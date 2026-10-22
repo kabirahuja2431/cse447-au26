@@ -60,7 +60,7 @@
     - date: 10/19
       lecture: 9
       topics: Text classification
-      slides: https://drive.google.com/file/d/1y-_EhqPiTJph3fVf51ZibNxaF1OsySlc/view?usp=sharing
+      slides: https://drive.google.com/file/d/1eCJ-tbxVhPaxzqcmbC_e8RFvcYuYN_5h/view?usp=sharing
       readings:
         - title: J&M, Chapter 4
           link: https://web.stanford.edu/~jurafsky/slp3/4.pdf
@@ -68,13 +68,14 @@
     - date: 10/21
       lecture: 10
       topics: Text classification
-      slides: https://drive.google.com/file/d/1y-_EhqPiTJph3fVf51ZibNxaF1OsySlc/view?usp=sharing
+      slides: https://drive.google.com/file/d/1eCJ-tbxVhPaxzqcmbC_e8RFvcYuYN_5h/view?usp=sharing
       readings:
         - title: J&M, Chapter 4
           link: https://web.stanford.edu/~jurafsky/slp3/4.pdf
     - date: 10/23
       lecture: 11
       topics: Text classification
+      slides: https://drive.google.com/file/d/1eCJ-tbxVhPaxzqcmbC_e8RFvcYuYN_5h/view?usp=sharing
       readings:
         - title: J&M, Chapter 4
           link: https://web.stanford.edu/~jurafsky/slp3/4.pdf
