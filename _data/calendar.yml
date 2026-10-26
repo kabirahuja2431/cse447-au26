@@ -84,6 +84,7 @@
     - date: 10/26
       lecture: 12
       topics: Language modeling
+      slides: https://drive.google.com/file/d/1-DUprTHAVmuYBb4-84yI8S5kI-kW1iuK/view?usp=sharing
       readings:
         - title: J&M, Chapter 3
           link: https://web.stanford.edu/~jurafsky/slp3/3.pdf
@@ -91,12 +92,14 @@
     - date: 10/28
       lecture: 13
       topics: Language modeling
+      slides: https://drive.google.com/file/d/1-DUprTHAVmuYBb4-84yI8S5kI-kW1iuK/view?usp=sharing
       readings:
         - title: J&M, Chapter 3
           link: https://web.stanford.edu/~jurafsky/slp3/3.pdf
     - date: 10/30
       lecture: 14
       topics: Language modeling
+      slides: https://drive.google.com/file/d/1-DUprTHAVmuYBb4-84yI8S5kI-kW1iuK/view?usp=sharing
       readings:
         - title: J&M, Chapter 3
           link: https://web.stanford.edu/~jurafsky/slp3/3.pdf
