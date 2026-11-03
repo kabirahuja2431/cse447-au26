@@ -16,6 +16,18 @@ MWF 3:30–4:20 PM, MGH 389
 ## Announcements
 
 <div class="announcement" markdown="1">
+### Nov 2: Homework 2 is out
+{: #homework-2 }
+
+Homework 2 (Project 2) is due **November 20 at 11:59 p.m. Pacific Time**. Submit both notebooks and your writeup through Gradescope as described in the handout.
+
+- [Part 2a notebook](https://drive.google.com/file/d/1zv74aWhvHA0tuggosd2_RYs-gyzb-uJZ/view?usp=sharing)
+- [Part 2b notebook](https://drive.google.com/file/d/10SECc8URaOPjNT8Ct8bd0klXbz3bvPOc/view?usp=sharing)
+- [Writeup PDF](https://drive.google.com/file/d/1M-TkXMkRtcQP4HCCJktleOxFqxACiTVU/view?usp=sharing)
+- [Writeup source (TeX)](https://drive.google.com/file/d/19lGb6B1p1PqMEp4DESIWBKXXbZhTXxLn/view?usp=sharing)
+</div>
+
+<div class="announcement" markdown="1">
 ### Oct 7: Homework 1 is out
 {: #homework-1 }
 

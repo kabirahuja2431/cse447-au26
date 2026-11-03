@@ -113,7 +113,7 @@
         - title: J&M, Chapter 5
           link: https://web.stanford.edu/~jurafsky/slp3/5.pdf
       quiz: In-class quiz 4
-      homework: HW2 out
+      homework: <a href="#homework-2">HW2 out</a>
     - date: 11/4
       lecture: 16
       topics: Distributional semantics
