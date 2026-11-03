@@ -109,6 +109,7 @@
     - date: 11/2
       lecture: 15
       topics: Lexical semantics
+      slides: https://drive.google.com/file/d/1ORc8EOC23PxRH-kHZefwgdxRgYL2Kd9q/view?usp=drive_link
       readings:
         - title: J&M, Chapter 5
           link: https://web.stanford.edu/~jurafsky/slp3/5.pdf
@@ -117,12 +118,14 @@
     - date: 11/4
       lecture: 16
       topics: Distributional semantics
+      slides: https://drive.google.com/file/d/1ORc8EOC23PxRH-kHZefwgdxRgYL2Kd9q/view?usp=drive_link
       readings:
         - title: J&M, Chapter 5
           link: https://web.stanford.edu/~jurafsky/slp3/5.pdf
     - date: 11/6
       lecture: 17
       topics: Distributional semantics
+      slides: https://drive.google.com/file/d/1ORc8EOC23PxRH-kHZefwgdxRgYL2Kd9q/view?usp=drive_link
       readings:
         - title: J&M, Chapter 5
           link: https://web.stanford.edu/~jurafsky/slp3/5.pdf
@@ -204,7 +207,6 @@
     - date: 12/4
       lecture: 28
       topics: Conclusion
-      quiz: In-class quiz 8
 - week: 11
   days:
     - date: 12/7
