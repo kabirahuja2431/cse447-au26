@@ -110,6 +110,9 @@ The schedule is subject to change.
           {% if day.slides %}
             <br><a href="{{ day.slides }}" class="cal-content-link">[slides]</a>
           {% endif %}
+          {% if day.video %}
+            <br><a href="{{ day.video }}" class="cal-content-link">[pre-recorded video]</a>
+          {% endif %}
         </td>
         <td class="cal-content">
           {% for reading in day.readings %}

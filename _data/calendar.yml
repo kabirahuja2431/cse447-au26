@@ -142,7 +142,8 @@
       quiz: In-class quiz 5
     - date: 11/11
       lecture: 19
-      topics: "Neural networks: Transformers"
+      topics: Veterans Day — class cancelled; students are expected to watch the pre-recorded video on Transformers
+      video: https://drive.google.com/file/d/1mb4IK7UL5QEShE3zd36soIwHxz_TOm4S/view
       readings:
         - title: J&M, Chapter 7
           link: https://web.stanford.edu/~jurafsky/slp3/7.pdf
