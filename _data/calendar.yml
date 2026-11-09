@@ -134,6 +134,7 @@
     - date: 11/9
       lecture: 18
       topics: Neural networks
+      slides: https://drive.google.com/file/d/1kT9lzJVnzqpDEU6uX0OSMdWOOSdZGERy/view?usp=sharing
       readings:
         - title: J&M, Chapter 6
           link: https://web.stanford.edu/~jurafsky/slp3/6.pdf
