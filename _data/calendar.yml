@@ -144,6 +144,7 @@
     - date: 11/11
       lecture: 19
       topics: Veterans Day — class cancelled; students are expected to watch the pre-recorded video on Transformers
+      slides: https://drive.google.com/file/d/1T8uagtfZtSruuTqBySr_1YtqwtKU0RGw/view?usp=sharing
       video: https://drive.google.com/file/d/1mb4IK7UL5QEShE3zd36soIwHxz_TOm4S/view
       readings:
         - title: J&M, Chapter 7
@@ -151,6 +152,7 @@
     - date: 11/13
       lecture: 20
       topics: LLMs — Pretraining and in-context learning
+      slides: https://drive.google.com/file/d/1EgZrTFaCM_W_RQoqW3xonb_PYaD3PTYU/view?usp=sharing
       readings:
         - title: J&M, Chapter 7
           link: https://web.stanford.edu/~jurafsky/slp3/7.pdf
