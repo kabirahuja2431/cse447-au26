@@ -151,7 +151,7 @@
           link: https://web.stanford.edu/~jurafsky/slp3/7.pdf
     - date: 11/13
       lecture: 20
-      topics: LLMs — Pretraining and in-context learning
+      topics: LLMs --- Pretraining Introduction, Encoders
       slides: https://drive.google.com/file/d/1EgZrTFaCM_W_RQoqW3xonb_PYaD3PTYU/view?usp=sharing
       readings:
         - title: J&M, Chapter 7
@@ -160,7 +160,7 @@
   days:
     - date: 11/16
       lecture: 21
-      topics: LLMs — Finetuning
+      topics: LLMs --- Encoders for IR, Encoder-Decoder Models (Pre-training and Fine-tuning)
       slides: https://drive.google.com/file/d/1Cz556NkV0OXHQOYd2PXg-fi5xC3DrOOA/view?usp=sharing
       readings:
         - title: J&M, Chapter 8
@@ -168,7 +168,7 @@
       quiz: In-class quiz 6
     - date: 11/18
       lecture: 22
-      topics: LLMs — Decoding, beam search, and sampling
+      topics: LLMs --- Decoders (Pre-training and Fine-tuning), Decoding Algorithms
       slides: https://drive.google.com/file/d/1DEe7K-cf7XPV_vDk-0H0oCe1JOjEeGId/view?usp=sharing
       readings:
         - title: J&M, Chapter 7
