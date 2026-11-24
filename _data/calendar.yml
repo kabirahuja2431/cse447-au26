@@ -190,6 +190,7 @@
     - date: 11/23
       lecture: 24
       topics: LLMs — Post-training and alignment
+      slides: https://drive.google.com/file/d/1ImB063szzKB9KrrqEd-DMNXFgsbEWwSC/view?usp=sharing
       readings:
         - title: J&M, Chapter 8
           link: https://web.stanford.edu/~jurafsky/slp3/8.pdf
