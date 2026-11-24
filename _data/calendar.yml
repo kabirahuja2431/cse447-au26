@@ -195,7 +195,7 @@
         - title: J&M, Chapter 8
           link: https://web.stanford.edu/~jurafsky/slp3/8.pdf
       quiz: In-class quiz 7
-      homework: HW3 out
+      homework: <a href="#homework-3">HW3 out</a>
     - date: 11/25
       lecture: 25
       topics: AI agents
